@@ -5,16 +5,15 @@
   <li>Linked List</li>
   <li>Stack</li>
   <li>Queue</li>
+  <li> Searching - Linear, Binary</li>
+  <li>Sorting - Bubble, Selection, Insertion, Key-Indexed </li>
+  <li> Hashing </li>
+  <li> Recursion </li>
+  <li> Tree <li>
   
   
 </ul>
-Linear Array
-Circular Array
-Linked List
-Stack 
-Queue
-Searching - Linear, Binary
-Sorting - Bubble, Selection, Insertion, Key-Indexed
+
 
 
 
