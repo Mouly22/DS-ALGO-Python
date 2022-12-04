@@ -10,9 +10,8 @@
   <li> Hashing </li>
   <li> Recursion </li>
   <li> Tree <li>
-  
-  
 </ul>
+
 
 
 
