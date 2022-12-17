@@ -18,7 +18,7 @@ class HashTable:
         for i in range(len(hash_tbl)):
             if self.idx == i:
                 if hash_tbl[i] != None:
-                    i += 1
+                    i = (i+1)%9
                 else:
                     hash_tbl[i] = inp
                     return hash_tbl
