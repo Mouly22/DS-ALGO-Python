@@ -5,10 +5,8 @@ class Node:
 
 
 #  Design the constructor based on data type of a. If 'a' is built in python list then
-  #  Creates a linked list using the values from the given array. head will refer
-  #  to the Node that contains the element from a[0]
-  #  Else Sets the value of head. head will refer
-  # to the given LinkedList
+  #  Creates a linked list using the values from the given array. head will refer to the Node that contains the element from a[0]
+  #  Else Sets the value of head. head will refer to the given LinkedList
 
   # Hint: Use the type() function to determine the data type of a
 class LinkedList:
