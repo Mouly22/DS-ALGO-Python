@@ -5,8 +5,8 @@
   <li>Linked List</li>
   <li>Stack</li>
   <li>Queue</li>
-  <li> Searching - Linear, Binary</li>
-  <li>Sorting - Bubble, Selection, Insertion, Key-Indexed </li>
+  <li> Searching - Linear, Binary, Trinary</li>
+  <li>Sort - Bubble, Selection, Insertion, Key-Indexed, Merge, Quick </li>
   <li> Hashing </li>
   <li> Recursion </li>
   <li> Tree </li>
